@@ -1,0 +1,2 @@
+# picoin
+PI coin project
